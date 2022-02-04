@@ -84,7 +84,7 @@ int main()
         {
             std::cout << "DRAW NIGGA\n";
             play = false;
-            githu continue;
+            continue;
         }
 
         printf("player %d (%c) > ", turn + 1, turn ? 'X' : 'O');
