@@ -120,3 +120,6 @@ _remember to configure ip address for the subinterface_
     ROUTER(config)# interface <interface>
     ROUTER(config-if)# ip address dhcp
     ```
+# Switch Security
+
+    
